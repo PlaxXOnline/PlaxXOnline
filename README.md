@@ -52,6 +52,9 @@ Hi, I'm [Janik Kahle](https://www.kahle.dev/), a Full-Stack Software Engineer wi
 <a href="https://github.com/PlaxXOnline/mcbroken_app" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PlaxXOnline&repo=mcbroken_app&theme=dracula" />
 </a>
+<a href="https://github.com/PlaxXOnline/flappy_bird" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PlaxXOnline&repo=flappy_bird&theme=dracula" />
+</a>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
